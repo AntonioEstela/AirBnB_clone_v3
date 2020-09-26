@@ -179,8 +179,3 @@ Second part of Airbnb: Joann Vuong
 <a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="middle" width="100" height="30"></a>
 
 ---
-
-## License
-Public Domain. No copy write protection.
-
----
