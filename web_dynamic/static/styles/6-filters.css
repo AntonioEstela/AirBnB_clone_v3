@@ -27,7 +27,7 @@ button:hover {
 .filters h2 {
     margin-left: 15%;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 5px;
     font-weight: 600;
 }
 .filters h3 {
@@ -100,4 +100,8 @@ button:hover {
 .amenities:hover .popover,
 .locations:hover .popover {
     visibility: visible;
+}
+
+.amenities .popover input {
+    margin-right: 10px;
 }
