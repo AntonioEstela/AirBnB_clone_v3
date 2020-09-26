@@ -151,14 +151,36 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 
 ## Bugs
-No known bugs at this time. 
+No known bugs at this time.
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
+
+## Fourth part of Airbnb v4
+
+> ## Contact 💬
+> Ricardo Camayo
+### | [twitter](https://twitter.com/RICARDO1470) | [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/) | [mail](1466@holbertonschool.com) | [github](https://github.com/ricardo1470/README/blob/master/README.md) |
+
+> Antonio Estela
+
+### | [twitter](https://twitter.com/Antonio__Estela) | [linkedin](https://www.linkedin.com/in/antonio-jos%C3%A9-estela-7b2a64156/) | [mail](1569@holbertonschool.com) | [github](https://github.com/AntonioEstela) |
+
+---
+
+## <a href="url"><img src="https://process.filestackapi.com/resize=width:200/https://cdn.filestackcontent.com/4EAxE8NfTNGVsqHFIXVF" align="middle" width="50" height="50"></a> License
+*<a href="url"><img src="https://camo.githubusercontent.com/9ebbf60e208b031d4dcf7db6ffc19fe0339d0ff3/68747470733a2f2f692e6962622e636f2f64354e38354e682f68626e622e706e67" align="middle" width="160" height="60"></a>`AirBnB clone - Web dynamic` is open source and therefore free to download and use without permission.*
+
+<a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="middle" width="100" height="30"></a>
+
+---
+
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.
+
+---
